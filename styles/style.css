@@ -5,6 +5,8 @@
 body {
 	font-size: 0;
 	font-family: sans-serif;
+	/* margin: auto; */
+	/* transform: translateX(10%); */
 }
 
 .everything-wrapper {
